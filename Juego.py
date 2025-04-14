@@ -21,7 +21,7 @@ class Juego:
         pass
     
     def solicitar_palabra(self):
-        
+        Hola=input("Hola: ")
 
 
   
